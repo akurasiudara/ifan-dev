@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ifan-dev
+- 👀 I’m interested in back end developer and open source project
+- 🌱 I’m currently learning javascript
+- 📫 ifan-dev@protonmail.cc
